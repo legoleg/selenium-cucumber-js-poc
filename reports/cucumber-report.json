@@ -14,7 +14,7 @@
             "name": "I search Google for \"itunes vote cards app\"",
             "result": {
               "status": "passed",
-              "duration": 3921670607
+              "duration": 6853423773
             },
             "line": 7,
             "match": {
@@ -27,7 +27,7 @@
             "name": "I should see some results",
             "result": {
               "status": "passed",
-              "duration": 716699428
+              "duration": 667486246
             },
             "line": 8,
             "match": {
@@ -39,7 +39,7 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 151846134
+              "duration": 316607998
             },
             "hidden": true,
             "match": {
